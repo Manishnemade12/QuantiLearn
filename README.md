@@ -135,7 +135,7 @@ graph LR
 **Clone Repository**
  ```bash
 https://github.com/Manishnemade12/QuantiLearn.git
-cd EventManager
+cd QuantiLearn
 ```
 **Run Microservices**
 Each service is in its own directory. Navigate to the folder and run:
